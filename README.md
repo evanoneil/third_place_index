@@ -1,14 +1,17 @@
 # Third Place Index (TPI)
 ## National Census Tract Dataset
 
-**Version**: 2025 v1.0
-**File**: `third_place_index_1.0.csv`
+**Version**: 2025 v1.1
+**File**: `third_place_index_1.1.csv`
 **Records**: 83,531 U.S. Census Tracts
 **Author**: Evan O'Neil / Data Studio of Evan O'Neil
 **Contact**: evan@evanoneil.studio
 
 
 ---
+## Updates in v1.1
+- **Fixed Known issue with CT data**
+- **GEOID Formatting Change** - 1.1 uses the standard 11-digit format (for example: 01001020100)
 
 ## Overview
 
